@@ -1,0 +1,7 @@
+Material CharacterMaterial : Common/MatDefs/Light/Lighting.j3md {
+     MaterialParameters {
+        DiffuseMap : Textures/BoxOnWheelsUV.png
+     }
+    AdditionalRenderState {
+    }
+}
